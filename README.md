@@ -18,8 +18,6 @@ The target variable is:
 ## Project Files
 
 - [PowerPlant_Energy_predictor.ipynb](PowerPlant_Energy_predictor.ipynb) — main notebook for data loading, preprocessing, model training, evaluation, and visualization.
-- [ANN_Regression.ipynb](ANN_Regression.ipynb) — additional notebook for ANN regression work.
-- [powerplant_data.csv](powerplant_data.csv) — dataset used for training and testing.
 - [best_ANN_model.pt](best_ANN_model.pt) — saved weights of the best-performing model.
 
 ## Requirements
